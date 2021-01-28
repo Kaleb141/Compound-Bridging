@@ -5,3 +5,7 @@ Created new Model in Fusion 360, Model was a square plate with hole in the cente
 Eddited G-Code after being sliced in cura, and printed the model.
 Print failed, but provided a solution on how to get it to work correctly. 
 Started Edditing the G-Code again.
+
+1/26/2021:
+After testing single layer bridges, I decided to revert back to double layer as it 
+has added strenght, and will give a better print quality.
