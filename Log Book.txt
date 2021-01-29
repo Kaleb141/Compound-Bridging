@@ -1,11 +1,48 @@
+1/15/2021:
+The first bridge was created in Fusion 360, it contained a starting and end point. 
+The top of the bridge would be a curved line. The bottom layer of the 3 layerd 
+bridge was a rectangle that reached from side to side of the thinnest point of the 
+curved line. The second layer consitsed of another rectangle, but with triangles 
+that would strech the majority of the way along the curved line. The third and final 
+layer was the curved line placed above the triangled layer. (See 3-Layer Bridge for Images)
+
+1/16/2021:
+Continued with the three layed bridge idea, created new models.
+
+1/18/2021:
+Started work on creating the alorithm, created a diagram for it.
+
+1/20/2021:
+Finished creating the algorithm, converted into pdf (Algorithm.pdf)
+
+1/21/2021:
+Brain stormed new ideas on how to advance the Sequental Bridging Technique.
+Decided a square hole would be the next best thing.
+
+1/23/2021:
+Created new models in Fusion 360 (Bridging Test V1) by trying to place smaller 
+rectangles, it was then decided that placing smaller rectangles broke the 
+algorithm.
+
 1/24/2021:
-Created new Model in Fusion 360, Model was a square plate with hole in the center.
+Attempted to apply the algoritm to a hexagonal hole, then proceded to eddit algarithm to 
+acomadate hexagonal holes. Decided it hurt the overall algarithm, and decided to create
+a new algarithm for hexagonal holes.
 
 1/25/2021:
-Eddited G-Code after being sliced in cura, and printed the model.
-Print failed, but provided a solution on how to get it to work correctly. 
-Started Edditing the G-Code again.
+A new model was created in Fusion 360 (Bridge Test V2) by creating four rectangles on
+one layer. After the model was created, it was exported in STL format and sliced in New
+Creality Engine. The G-Code was then ported into repetier where diganal lines were changed
+to stright lines, that would print better. The print failed in the middles but showed that 
+a double layer build would help.
 
 1/26/2021:
-After testing single layer bridges, I decided to revert back to double layer as it 
-has added strenght, and will give a better print quality.
+The previus model Bridge Test V2 was eddited to contain two layers (Bridge Test V3). After 
+being ported into Cura and sliced, it was ported over to repetier where the dignal lines
+were eddited stright. The first test of that design was printed but failed due to calculations
+of the E interger being incorect. However, this print showed promising results. (Failed Version 3)
+
+1/27/2021:
+Changed E-Integers to allow for a successful print.
+
+1/28/2021:
