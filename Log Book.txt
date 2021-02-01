@@ -45,4 +45,7 @@ of the E interger being incorect. However, this print showed promising results. 
 1/27/2021:
 Changed E-Integers to allow for a successful print.
 
-1/28/2021:
+1/31/2021:
+Printed the new version of the square plate, and had a successful print with minor blemishes. 
+diffrent use cases will be explored, along with allowing more layers to be printed along the original
+design.
