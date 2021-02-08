@@ -49,3 +49,11 @@ Changed E-Integers to allow for a successful print.
 Printed the new version of the square plate, and had a successful print with minor blemishes. 
 diffrent use cases will be explored, along with allowing more layers to be printed along the original
 design.
+
+2/03/2021:
+A new design was created, lines were placed in a diagnal fasion along two points, of a four point bridge. 
+The diagnial lines were then used as supports for a layer added ontop that continued to bridge more gaps, 
+using the second layer a third layer was placed ontop of it that finished defining the holes.
+
+2/07/21: 
+The new design was printed, and became an overall success, redesigning of the algarith began today.
