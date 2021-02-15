@@ -57,3 +57,10 @@ using the second layer a third layer was placed ontop of it that finished defini
 
 2/07/21: 
 The new design was printed, and became an overall success, redesigning of the algarith began today.
+
+2/11/21: 
+Started modeling a counter sink in Fusion 360.
+
+2/12/21:
+Slied the counter sink, and eddited G-Code so that it could be printed according to the Algarithm.
+The counter sink was printed successfuly. 
